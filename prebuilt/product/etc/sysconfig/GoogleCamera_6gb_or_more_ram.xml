@@ -6,5 +6,5 @@ devices with 6GB or more of RAM. -->
 
     <!-- Allow GoogleCamera app in power save (background service to keep Camera
     process alive). -->
-    <allow-in-power-save package="com.google.android.GoogleCamera" />
+    <allow-in-power-save package="com.google.android.GoogleCamera.Urnyx" />
 </config>
